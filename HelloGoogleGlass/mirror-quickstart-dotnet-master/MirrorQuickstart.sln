@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MirrorQuickstart", "MirrorQuickstart.csproj", "{2D26C9E1-9BDC-4FF6-A482-0E794430A352}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{297CDA66-2454-4CF3-9C6A-29087BAB769C}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.Apis.Mirror.v1", "..\Google.Apis.Mirror.v1\Google.Apis.Mirror.v1.csproj", "{27872D97-EF8A-4D73-B0D2-94633233EB7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D26C9E1-9BDC-4FF6-A482-0E794430A352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D26C9E1-9BDC-4FF6-A482-0E794430A352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D26C9E1-9BDC-4FF6-A482-0E794430A352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D26C9E1-9BDC-4FF6-A482-0E794430A352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27872D97-EF8A-4D73-B0D2-94633233EB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27872D97-EF8A-4D73-B0D2-94633233EB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27872D97-EF8A-4D73-B0D2-94633233EB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27872D97-EF8A-4D73-B0D2-94633233EB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

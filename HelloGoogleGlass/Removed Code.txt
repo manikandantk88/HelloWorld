@@ -1,0 +1,45 @@
+//UriBuilder uriBuilder = new UriBuilder("https://innovative-glass.appspot.com/_ah/api/mirror/v1/timeline");
+            //string userId = Session["userId"] as string;
+            //var state = Utils.GetStoredCredentials(userId);
+            //NameValueCollection queryParameters = HttpUtility.ParseQueryString(uriBuilder.Query);
+            //queryParameters.Set("access_token", state.AccessToken);
+            //uriBuilder.Query = queryParameters.ToString();
+            
+            //var request = (HttpWebRequest)WebRequest.Create(uriBuilder.ToString());
+            //request.Headers.Add("authorization", string.Format("Bearer {0}", state.AccessToken));
+            //request.Method = "GET";
+            //request.ContentType = "application/json";
+            //var response = (HttpWebResponse)request.GetResponse();
+
+
+
+// Inserting Timeline Card to Google Glass Emulator
+
+            //UriBuilder uriBuilder = new UriBuilder("https://innovative-glass.appspot.com/_ah/api/mirror/v1/timeline");
+
+            //string userId = Session["userId"] as string;
+            //var state = Utils.GetStoredCredentials(userId);
+            
+            //NameValueCollection queryParameters = HttpUtility.ParseQueryString(uriBuilder.Query);
+            //queryParameters.Set("access_token", state.AccessToken);
+
+            //uriBuilder.Query = queryParameters.ToString();
+
+            //var client = new RestClient();
+            //client.EndPoint = uriBuilder.ToString();
+            //client.Method = HttpVerb.GET;
+            //client.PostData = "{ \"text\": \"Test TimeLine Card From App\" }";
+            //client.ContentType = "application/json";
+            //var json = client.MakeRequest("", state.AccessToken);
+
+            // GG Emulator End
+
+
+rootData.TimelineItems = new List<TimelineItem>();
+            rootData.TimelineItems.Add(new TimelineItem()
+                {
+                    Id = "123456789",
+                    Text = "just some text",
+                    Created = "2013-04-12T15:50:41.000000",
+                    Updated = "2013-04-12T15:50:41.000000"
+                });

@@ -1,6 +1,8 @@
-﻿using System;
+﻿using HelloOAuthMVC.GoogleApi;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Http;
 using System.Web;
 using System.Web.Mvc;
 
@@ -12,7 +14,7 @@ namespace HelloOAuthMVC.Controllers
         {
             return View();
         }
-
+        
         public ActionResult Index()
         {
             return View();

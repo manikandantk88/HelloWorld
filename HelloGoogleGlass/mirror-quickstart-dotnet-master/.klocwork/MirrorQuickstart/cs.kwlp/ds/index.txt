@@ -1,0 +1,63 @@
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Controllers\AuthController.cs;;1;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Controllers\MainController.cs;C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\.klocwork\MirrorQuickstart\cs.kwlp\ds\2\lcm2gxf0.hd5;2;0;0;1405362118601
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Controllers\NotifyController.cs;;3;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\TimelineResource.cs;;4;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\App_Data\Account.mdf;;5;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\App_Data\Account_log.ldf;;6;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\bootstrap\css\bootstrap-responsive.css;;7;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\bootstrap\css\bootstrap-responsive.min.css;;8;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\bootstrap\css\bootstrap.css;;9;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\bootstrap\css\bootstrap.min.css;;10;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\bootstrap\img\glyphicons-halflings-white.png;;11;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\bootstrap\img\glyphicons-halflings.png;;12;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\bootstrap\js\bootstrap.js;;13;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\bootstrap\js\bootstrap.min.js;;14;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\images\saturn-eclipse.jpg;;15;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Content\images\send_to_glass_64x64.png;;16;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Controllers\AttachmentProxyController.cs;;17;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Controllers\AuthRequiredController.cs;;18;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Global.asax;;19;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Global.asax.cs;;20;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Models\Config.cs;C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\.klocwork\MirrorQuickstart\cs.kwlp\ds\1\54p4vkkn.mfr;21;0;0;1405360756469
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Models\IndexModel.cs;;22;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Models\NorthWind.edmx;;23;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Models\NorthWind.Designer.cs;;24;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Models\Utils.cs;;25;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\packages.config;;26;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Properties\AssemblyInfo.cs;;27;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Properties\Settings.settings;;28;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Properties\Settings.Designer.cs;;29;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Views\_ViewStart.cshtml;;30;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Views\Main\Index.cshtml;;31;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Views\Shared\_Layout.cshtml;;32;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Views\Shared\Error.cshtml;;33;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Views\Web.config;;34;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web References\com.ocrwebservice.www\OCRWebService.disco;;35;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web References\com.ocrwebservice.www\OCRWebService.wsdl;;36;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web References\com.ocrwebservice.www\Reference.map;;37;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web References\com.ocrwebservice.www\OCRWSResponse.datasource;;38;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web References\com.ocrwebservice.www\Reference.cs;;39;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web.config;;40;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web.Debug.config;;41;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web.Release.config;;42;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\AssemblyInfo.cs;;43;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Global.cs;;44;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\ContactsResource.cs;;45;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\Attachment.cs;;46;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\AttachmentsListResponse.cs;;47;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\Contact.cs;;48;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\ContactsListResponse.cs;;49;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\Location.cs;;50;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\LocationsListResponse.cs;;51;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\MenuItem.cs;;52;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\MenuValue.cs;;53;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\Notification.cs;;54;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\NotificationConfig.cs;;55;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\Subscription.cs;;56;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\SubscriptionsListResponse.cs;;57;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\TimelineItem.cs;;58;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\TimelineListResponse.cs;;59;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\Data\UserAction.cs;;60;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\LocationsResource.cs;;61;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\MirrorService.cs;C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\.klocwork\MirrorQuickstart\cs.kwlp\ds\2\s24hyiim.3pn;62;0;0;1405358342469
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\Google.Apis.Mirror.v1\Google\Apis\Mirror\v1\SubscriptionsResource.cs;;63;0;0;0

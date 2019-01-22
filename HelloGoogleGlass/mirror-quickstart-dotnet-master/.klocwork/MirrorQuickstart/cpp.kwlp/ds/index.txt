@@ -1,0 +1,2 @@
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Web.config;;1;0;0;0
+C:\Innovation\GG POC\Latest\mirror-quickstart-dotnet-master\mirror-quickstart-dotnet-master\Views\_ViewStart.cshtml;;2;0;0;0

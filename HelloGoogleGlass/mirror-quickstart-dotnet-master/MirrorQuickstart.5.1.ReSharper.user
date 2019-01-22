@@ -1,0 +1,57 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Close`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="inputStream" priority="0" />
+      <Item value="Guid`0" priority="1" />
+      <Item value="string" priority="1" />
+      <Item value="gid" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="27872D97-EF8A-4D73-B0D2-94633233EB7C/d:Google/d:Apis/d:Mirror/d:v1/f:TimelineResource.cs" caret="0" fromTop="0" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Controllers/f:AttachmentProxyController.cs" caret="1787" fromTop="36" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/f:Web.config" caret="0" fromTop="0" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Controllers/f:AuthRequiredController.cs" caret="1907" fromTop="39" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Models/f:Config.cs" caret="1989" fromTop="25" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Controllers/f:AuthController.cs" caret="1432" fromTop="16" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Controllers/f:NotifyController.cs" caret="1156" fromTop="28" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Controllers/f:MainController.cs" caret="2218" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Controllers/f:NotifyController.cs" caret="4927" fromTop="17" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Controllers/f:NotifyController.cs" caret="4058" fromTop="9" />
+      <File id="2D26C9E1-9BDC-4FF6-A482-0E794430A352/d:Models/f:Config.cs" caret="1954" fromTop="25" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.6.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

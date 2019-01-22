@@ -1,0 +1,41 @@
+<VisualStudioProject>
+  <CSHARP ProjectType="local" ProjectVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="b84655a3-754d-4898-b7c9-dd8c9c85c0de">
+    <Build>
+      <Settings AssemblyName="Google.Apis.Mirror.v1" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="Library">
+        <Config Name="Debug" AllowUnsafeBlocks="true" DefineConstants="DEBUG;TRACE" DebugSymbols="true" IncrementalBuild="false" NoStdLib="false" Optimize="false" OutputPath="bin\Debug\" WarningLevel="4" />
+        <Config Name="Release" AllowUnsafeBlocks="true" DefineConstants="TRACE" DebugSymbols="false" IncrementalBuild="false" NoStdLib="false" Optimize="true" OutputPath="bin\Release\" WarningLevel="4" />
+      </Settings>
+      <References>
+        <Reference Name="Google.Apis" AssemblyName="Google.Apis" />
+        <Reference Name="Newtonsoft.Json.Net35" AssemblyName="Newtonsoft.Json.Net35" />
+        <Reference Name="System" AssemblyName="System" />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="AssemblyInfo.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Global.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\UserAction.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\ContactsListResponse.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\AttachmentsListResponse.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\Notification.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\TimelineListResponse.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\NotificationConfig.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\TimelineItem.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\Contact.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\LocationsListResponse.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\Attachment.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\SubscriptionsListResponse.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\MenuItem.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\Subscription.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\MenuValue.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\Data\Location.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\MirrorService.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\TimelineResource.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\SubscriptionsResource.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\LocationsResource.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Google\Apis\Mirror\v1\ContactsResource.cs" SubType="Code" BuildAction="Compile" />
+      </Include>
+    </Files>
+  </CSHARP>
+</VisualStudioProject>

@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="2D26C9E1-9BDC-4FF6-A482-0E794430A352" ModuleId="MirrorQuickstart" />
+  <Module PersistentId="27872D97-EF8A-4D73-B0D2-94633233EB7C" ModuleId="Google.Apis.Mirror.v1" />
+</Modules>
